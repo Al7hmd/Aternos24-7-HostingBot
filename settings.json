@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "uhmarsuhleh.aternos.me:59587",
+    "ip": "uhmarsuhleh.aternos.me",
     "port": 59587,
     "version": "",
     "try-creative": false
